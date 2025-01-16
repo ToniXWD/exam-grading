@@ -1,0 +1,9 @@
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/ToniXWD/learning-cxx.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/ToniXWD/rustlings.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = https://github.com/ToniXWD/learning-lm-rs.git
